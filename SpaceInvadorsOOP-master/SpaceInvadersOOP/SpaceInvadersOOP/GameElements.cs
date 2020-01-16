@@ -17,7 +17,5 @@ namespace SpaceInvadersOOP
             return speed_;
         }
 
-
-
     }
 }

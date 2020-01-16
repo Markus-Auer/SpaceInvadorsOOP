@@ -28,7 +28,7 @@ namespace SpaceInvadersOOP
 
             if (!rightout)
             {
-                if (e.KeyCode == Keys.Right)
+                if (e.KeyCode == Keys.D)
                 {
                     pBplayer.Left += player1.move(player1.speed_ = 4);
                     positionXplayer.Text = pBplayer.Location.X.ToString();
@@ -36,15 +36,15 @@ namespace SpaceInvadersOOP
             }
             if (!leftout)
             {
-                if (e.KeyCode == Keys.Left)
+                if (e.KeyCode == Keys.A)
                 {
                     pBplayer.Left -= player1.move(player1.speed_ = 4);
                     positionXplayer.Text = pBplayer.Location.X.ToString();
                 }
             }
-                if(e.KeyCode == Keys.Up)
+                if(e.KeyCode == Keys.Space)
             {
-
+                draw();
             }
             
             positionXplayer2.Text = this.Width.ToString();
@@ -53,8 +53,17 @@ namespace SpaceInvadersOOP
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
 
+        }
+
+        public void draw()
+        {
+            PictureBox pictureBox1 = new PictureBox();
+            pictureBox1.Location = new System.Drawing.Point(pBplayer.Location.X, pBplayer.Location.Y);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new System.Drawing.Size(100, 50);
+            pictureBox1.BackColor = Color.Black;
+            this.Controls.Add(pictureBox1);
         }
 
         private void Timer1_Tick(object sender, EventArgs e)
