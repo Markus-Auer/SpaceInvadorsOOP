@@ -1,0 +1,10 @@
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\bin\Debug\SpaceInvadersOOP.exe.config
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\bin\Debug\SpaceInvadersOOP.exe
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\bin\Debug\SpaceInvadersOOP.pdb
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.csprojAssemblyReference.cache
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.Form1.resources
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.Properties.Resources.resources
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.csproj.GenerateResource.cache
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.csproj.CoreCompileInputs.cache
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.exe
+S:\5AHET\AIIT\SpaceInvadersOOP\SpaceInvadersOOP\obj\Debug\SpaceInvadersOOP.pdb
